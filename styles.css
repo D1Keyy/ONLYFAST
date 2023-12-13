@@ -1,0 +1,64 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  padding: 20px;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: rgb(106, 111, 82);
+  height: 137px;
+}
+
+
+
+.body{
+  background-color: aqua;
+}
+
+.logo{
+  width: 200px; /* Задать ширину */
+  height: 500px; /* Задать высоту */
+  background-color: white;
+}
+
+.logopart1{
+  margin: 0;
+  text-align: center;
+  
+  height: 200px; /* Задать высоту */
+  background-color: black;
+  border: 1px solid #ff0000;
+}
+
+.logopart2{
+  margin: 0;
+  width: 200px; /* Задать ширину */
+  height:50px; /* Задать высоту */
+  background-color: rgb(121, 24, 100);
+}
+
+.ONLYFAST{
+margin: center;
+font-size: xx-large;
+border: 1px solid #ff0000;
+
+}
+
+.ONLYlogo{
+  color: white; 
+}
+
+.FASTlogo{
+  color: blue;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+  
